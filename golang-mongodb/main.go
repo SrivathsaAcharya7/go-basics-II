@@ -4,7 +4,6 @@ import (
 	"fmt"
 	"log"
 	"net/http"
-
 	"github.com/SrivathsaAcharya7/golang-mongodb/router"
 )
 
